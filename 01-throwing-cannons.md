@@ -4,6 +4,10 @@
 - Launch cannons
 - Update ammos
 
+# Blueprints
+<img width="1614" alt="スクリーンショット 2023-11-25 11 36 58" src="https://github.com/jinyongnan810/UE5-learning/assets/29720903/033aac30-d1db-483c-bc8a-e2cb72ac23a9">
+
+
 # Tips
 ## Copy objects
 - Press option when dragging object automatically makes copies.
