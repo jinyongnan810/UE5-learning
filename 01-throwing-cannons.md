@@ -71,3 +71,7 @@
 ## Check ammos
 - When Space Bar pressed, check ammos is greater than 0 by drag to Branch.
 - Link if true to SpawnActor.
+
+# Reload level
+- Get current level name.
+- Open level by name.
