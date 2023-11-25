@@ -26,6 +26,10 @@
 - Delete current collision.
 - Add 10DOP collision according to the shape.
 
+## Extract blueprint logic as Function
+- Select nodes and right click, collapse to function.
+- If the function only for calculation(no side effects), check pure to omit execution arrows.
+
 # Create room
 ## Making a room
 - Open actor placement panel.
