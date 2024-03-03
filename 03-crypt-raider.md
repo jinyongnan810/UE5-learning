@@ -11,3 +11,7 @@
 - also add Directional Light
 - In BP_Sky_Sphere, set Directional Light Actor Name to Directional Light
 - After changing Directional Light, refresh material in BP_Sky_Sphere, and recapture in SkyLight
+- Lumen engine performs well in Mobility Movable mode.
+
+#### Solve weird light problem
+- select wall's material's parent material, unlink Pixel Depth Offset.
